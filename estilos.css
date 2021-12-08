@@ -1,0 +1,17 @@
+
+#Fondo{
+    background-color: rgb(61, 245, 245);
+    border: groove;
+    
+    
+}
+
+#ParteSuperior{
+    border:groove ;
+    background-color: rgb(79, 228, 79);
+    text-align: center;
+}
+#ParteMedia1{
+    border:dashed;
+    text-align: center;
+}
